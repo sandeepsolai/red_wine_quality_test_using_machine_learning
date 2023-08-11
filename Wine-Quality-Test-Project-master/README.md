@@ -17,10 +17,10 @@ This Repository contains the Wine Quality Test Project.
 **Outputs:**
 
 1. Correlation Matrix for Both Wines
-![](https://github.com/sidgolangade/Wine-Quality-Test-Project/blob/master/Wine%20Quality%20Test/Output%20Images/Screenshot%202020-07-12%20at%203.47.14%20p.m..jpg)
+![](https://github.com/sandeepsolai/red_wine_quality_test_using_machine_learning/blob/main/Wine-Quality-Test-Project-master/Wine%20Quality%20Test/Output%20Images/Screenshot%202020-07-12%20at%203.47.14%20p.m..jpg)
 
 2. Quality Standards
-![](https://github.com/sidgolangade/Wine-Quality-Test-Project/blob/master/Wine%20Quality%20Test/Output%20Images/Screenshot%202020-07-12%20at%203.47.41%20p.m..jpg)
+![](https://github.com/sandeepsolai/red_wine_quality_test_using_machine_learning/blob/main/Wine-Quality-Test-Project-master/Wine%20Quality%20Test/Output%20Images/Screenshot%202020-07-12%20at%203.47.41%20p.m..jpg)
 
 3. Proportions
-![](https://github.com/sidgolangade/Wine-Quality-Test-Project/blob/master/Wine%20Quality%20Test/Output%20Images/Screenshot%202020-07-12%20at%203.47.56%20p.m..jpg)
+![](https://github.com/sandeepsolai/red_wine_quality_test_using_machine_learning/blob/main/Wine-Quality-Test-Project-master/Wine%20Quality%20Test/Output%20Images/Screenshot%202020-07-12%20at%203.47.56%20p.m..jpg)
